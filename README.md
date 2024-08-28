@@ -5,7 +5,7 @@
 
 **Line2Live** is a Pix2pix-Based Stacked Triple-Generator Conditional Neural Network designed to transform sketches into realistic face photos. This project leverages advanced deep-learning techniques to bridge the gap between artistic sketches and lifelike facial reconstructions. The overall reconstruction quality improved by 25.1% in L1 distance, 16.2% in L2 distance, and 3.2% in Structural Similarity Index compared to the traditional pix2pix model. 
 
-## Folder Description
+## Folder Descriptions
 
 - **Discriminators**: where discriminators will be saved per customized number of epochs after training
 - **Generator**: where generators will be saved per customized number of epochs after training
@@ -14,7 +14,7 @@
 - **Sketch_Photo_Dataset**: directory for input sketches, target photos, grayscale versions of images and augmented images
 - **train/validation_gen_examples**: directory where sample training and validation photos will be saved for monitoring reconstruction progress
 
-## File Description
+## File Descriptions
 - **config.py**: setup the configurations and type of transformations for data-preprocessing for entire training
 - **dataset.py & dataset_multi.py** customized datasets for loading multi images simultaneously
 - **discriminator.py**: discriminator model class
@@ -32,6 +32,7 @@ git clone https://github.com/angel-gao/Line2Live.git
 
 # Install dependencies
 conda env create -f environment.yml
+```
 
 To run the 
 
