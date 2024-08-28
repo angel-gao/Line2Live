@@ -1,4 +1,6 @@
 # Line2Live
+
+## Model Highlevel Flowchart
 ![Line2Live Model Architecture](https://github.com/angel-gao/Line2Live/blob/main/projectModelFC.png)
 
 ## Introduction
