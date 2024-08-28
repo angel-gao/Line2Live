@@ -34,5 +34,17 @@ git clone https://github.com/angel-gao/Line2Live.git
 conda env create -f environment.yml
 ```
 
-To run the 
+To run the baseline model: 
+```bash
+#Remember to setup the desired configurations and correct dataset directory
+python train_base.py
+```
+
+To run the project model: 
+```bash
+#Remember to setup the desired configurations and correct dataset directory
+python train_triple.py
+```
+
+
 
