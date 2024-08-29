@@ -48,9 +48,9 @@ To run the project model:
 python train_triple.py
 ```
 
-##Presentation Video
+## Presentation Video
 
-The full project presentation video is available to watch 
+The full project presentation video is available to watch [here](relative/path/to/your/file)
 
 
 
