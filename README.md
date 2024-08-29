@@ -50,7 +50,7 @@ python train_triple.py
 
 ## Presentation Video
 
-The full project presentation video is available to watch [here](relative/path/to/your/file)
+The full project presentation video is available to watch [here](Presentation_Video.mp4)
 
 
 
