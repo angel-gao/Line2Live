@@ -50,7 +50,7 @@ python train_triple.py
 
 ## Presentation Video and Report
 
-The full project presentation video is available to download [here](Presentation_Video.mp4), and the final report is available [here](Line2Live Final Report.pdf)
+The full project presentation video is available to download [here](Presentation_Video.mp4), and the final report is available [here](https://github.com/angel-gao/Line2Live/blob/main/Lin2Live%20Final%20Report.pdf)
 
 
 
