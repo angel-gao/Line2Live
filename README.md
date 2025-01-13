@@ -48,9 +48,9 @@ To run the project model:
 python train_triple.py
 ```
 
-## Presentation Video
+## Presentation Video and Report
 
-The full project presentation video is available to download [here](Presentation_Video.mp4)
+The full project presentation video is available to download [here](Presentation_Video.mp4), and the final report is available [here](Line2Live Final Report.pdf)
 
 
 
